@@ -8,16 +8,16 @@
             <v-col cols="12" md="8" lg="6">
 
               <h2 class="text-center mb-4 blue--text">
-                Hola, me llamo Enrique y esta es mi pueba para trabajar con Uds.
+                Hola, me llamo <span class="red--text">Enrique</span> y esta es mi prueba para trabajar con Uds.
               </h2>
               <h3 class="text-center mb-4">
-                Abre la consola y mira como se ejecuta el programa.
+                Abra la consola y mire como se ejecuta el programa.
               </h3>
               <h3 class="text-center mb-2">
                 Existen muchos elementos mejorables, como el estilo, seller_id y la paginacion de respuesta.
               </h3 >
               <h3 class="text-center">
-                Mira el repo <a href="https://github.com/enpepolicy/prueba-ibushak" target="_blank">acá</a>
+                Repo <a href="https://github.com/enpepolicy/prueba-ibushak" target="_blank">acá</a>
               </h3>
 
             </v-col>
